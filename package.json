@@ -1,0 +1,19 @@
+{
+  "name": "mohannjm",
+  "version": "1.0.0",
+  "description": "mohan personal demo checking",
+  "main": "sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohansoftexer/MohanNJM.git"
+  },
+  "author": "mohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohansoftexer/MohanNJM/issues"
+  },
+  "homepage": "https://github.com/mohansoftexer/MohanNJM#readme"
+}
